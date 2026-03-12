@@ -83,7 +83,7 @@ function App() {
       {/* Footer */}
       <footer className="border-t border-slate-800/50 mt-auto">
         <div className="max-w-6xl mx-auto px-4 py-6 text-center text-sm text-slate-500">
-          <p>Built for AgentathonX 2026 | Powered by Google Gemini</p>
+          <p>Powered by Google Gemini</p>
         </div>
       </footer>
     </div>

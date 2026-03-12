@@ -1,8 +1,8 @@
 # Multi-Agent Startup Validator
 
-> AI-powered startup validation using 4 sequential agents — built for AgentathonX 2026
+> AI-powered startup validation using 4 sequential agents — powered by Google Gemini
 
-![Multi-Agent Startup Validator](https://img.shields.io/badge/Hackathon-AgentathonX%202026-blueviolet)
+![Multi-Agent Startup Validator](https://img.shields.io/badge/Powered%20by-Google%20Gemini-blueviolet)
 ![Stack](https://img.shields.io/badge/Stack-React%20%2B%20FastAPI%20%2B%20Gemini-blue)
 
 ## Overview
@@ -192,4 +192,4 @@ MIT
 
 ---
 
-Built with ❤️ for AgentathonX 2026
+Built with ❤️ by the team

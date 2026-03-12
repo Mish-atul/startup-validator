@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Name:** Multi-Agent Startup Validator  
-**Hackathon:** AgentathonX 2026 (India's First Online Agentathon)  
+**Project:** Multi-Agent Startup Validator  
 **Deadline:** March 13, 2026  
 **Version:** 1.0.0
 
